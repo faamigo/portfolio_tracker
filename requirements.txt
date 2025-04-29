@@ -1,0 +1,7 @@
+Django==4.2.20
+asgiref==3.8.1
+sqlparse==0.5.3
+typing-extensions==4.13.2
+djangorestframework==3.14.0
+django-filter==24.1
+factory-boy==3.3.0 
